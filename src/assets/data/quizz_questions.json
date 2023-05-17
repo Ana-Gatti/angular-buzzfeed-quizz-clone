@@ -1,55 +1,49 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Descubra se você se identifica mais com o Back-end ou Front-end",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Quando você pensa em criar um aplicativo, o que mais lhe interessa?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Criar a estrutura e lógica por trás do aplicativo", "alias":"A"},
+        {"id": 2, "name":"Projetar a interface visual e a experiência do usuário", "alias":"B"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "O que você acha mais fascinante em um site ou aplicativo?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"A capacidade de processar e armazenar dados de forma eficiente", "alias":"A"},
+        {"id": 2, "name":"A aparência visual e a interatividade com os usuários", "alias":"B"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Qual aspecto você valoriza mais em um projeto de programação?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"O funcionamento correto e eficiente de todas as funcionalidades", "alias":"A"},
+        {"id": 2, "name":"A aparência atraente e agradável aos olhos dos usuários", "alias":"B"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "O que você prefere trabalhar: banco de dados e lógica de negócio ou estilos e animações?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Banco de dados e lógica de negócio", "alias":"A"},
+        {"id": 2, "name":"Estilos e animações", "alias":"B"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Que tipo de linguagem de programação você acha mais interessante?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":" Linguagens voltadas para manipulação de dados e processamento lógico, como Python ou Java", "alias":"A"},
+        {"id": 2, "name":"Linguagens voltadas para interação com o usuário e design de interfaces, como HTML, CSS e JavaScript", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você se identifica mais com Back-end!!",
+    "B": "O Front-end é a sua praia!!"
   }
 }
